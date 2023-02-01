@@ -28,5 +28,5 @@
 ## janeaustenr: Jane Austen's Complete Novels:
 - Full texts for Jane Austen's 6 completed novels, ready for text analysis. These novels are "Sense and Sensibility", "Pride and Prejudice", "Mansfield Park", "Emma", "Northanger Abbey", and "Persuasion". [janeaustenr](https://cran.r-project.org/web/packages/janeaustenr/index.html)
 
-
+[kaggle](https://www.kaggle.com/code/amirmotefaker/sentiment-analysis-model-using-r/notebook)
 - In order to build our project on sentiment analysis, we will make use of the tidytext package that comprises sentiment lexicons that are present in the dataset of ‘sentiments’.
