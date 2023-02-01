@@ -20,3 +20,13 @@
  
 
 ##### Reference : [Amazon](https://aws.amazon.com/what-is/sentiment-analysis/)
+
+
+# Sentiment Analysis Model:
+- We will carry out sentiment analysis with R in this project. The dataset that we will use will be provided by the R package ‘janeaustenR’.
+
+## janeaustenr: Jane Austen's Complete Novels:
+- Full texts for Jane Austen's 6 completed novels, ready for text analysis. These novels are "Sense and Sensibility", "Pride and Prejudice", "Mansfield Park", "Emma", "Northanger Abbey", and "Persuasion". [janeaustenr](https://cran.r-project.org/web/packages/janeaustenr/index.html)
+
+
+- In order to build our project on sentiment analysis, we will make use of the tidytext package that comprises sentiment lexicons that are present in the dataset of ‘sentiments’.
