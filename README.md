@@ -12,7 +12,7 @@
   - Market research
   - Track campaign performance
   
-# What are the diferent types of sentiment analysis?
+# What are the different types of sentiment analysis?
  - Fine-grained scoring
  - Aspect-based
  - Intent-based
